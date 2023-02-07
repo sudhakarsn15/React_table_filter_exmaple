@@ -1,8 +1,7 @@
 import "./styles.css";
 import axios from "axios";
-import { useState, useEffect } from "react";
+import { useMemo, useState, useEffect } from "react";
 import Table from "./Table";
-import { useMemo } from "react/cjs/react.production.min";
 // import "./App.css";
 
 export default function App() {
