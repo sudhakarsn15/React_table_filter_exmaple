@@ -1,7 +1,7 @@
 import "./styles.css";
 import axios from "axios";
 import { useState, useEffect } from "react";
-// import Table from "./Table";
+import Table from "./Table";
 // import "./App.css";
 
 export default function App() {
